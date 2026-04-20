@@ -1,0 +1,4 @@
+"Model","AUC","Accuracy_pct"
+"SVM",0.5833,57.14
+"Random Forest",0.375,28.57
+"Decision Tree",0.4167,42.86
